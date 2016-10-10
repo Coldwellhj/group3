@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\androidworkspace\\Pulltorefresh\\libs\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\androidworkspace\\Pulltorefresh\\libs\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\androidworkspace\\Pulltorefresh\\libs\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\androidworkspace\\Pulltorefresh\\libs\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\androidworkspace\\Pulltorefresh\\libs\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "D:\\androidworkspace\\Pulltorefresh\\libs\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "G:\\pulltorefresh\\Pulltorefresh\\libs\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "G:\\pulltorefresh\\Pulltorefresh\\libs\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\gaobo\\andriod workspace\\Moving_kuangjia1\\libs\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "D:\\gaobo\\andriod workspace\\Moving_kuangjia1\\libs\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "G:\\pulltorefresh\\Pulltorefresh\\libs\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "G:\\pulltorefresh\\Pulltorefresh\\libs\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\gaobo\\andriod workspace\\Moving_kuangjia1\\libs\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\gaobo\\andriod workspace\\Moving_kuangjia1\\libs\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\gaobo\\andriod workspace\\Moving_kuangjia1\\libs\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\gaobo\\andriod workspace\\Moving_kuangjia1\\libs\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "G:\\pulltorefresh\\Pulltorefresh\\libs\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "G:\\pulltorefresh\\Pulltorefresh\\libs\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    }
+]

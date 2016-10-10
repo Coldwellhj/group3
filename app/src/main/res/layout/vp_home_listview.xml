@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <HorizontalScrollView
+        android:id="@+id/hs_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <RadioGroup
+            android:id="@+id/rg_zixuns_top"
+            android:background="@color/colorSkybule"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+            <RadioButton
+
+                android:id="@+id/rb_zixun_one"
+                android:layout_marginLeft="20dp"
+                android:textColor="@drawable/radiotab_text_selector"
+                style="@style/RadiobtnTop"
+                android:text="首页"/>
+            <RadioButton
+                android:id="@+id/rb_zixun_two"
+                android:layout_marginLeft="20dp"
+                android:textColor="@drawable/radiotab_text_selector"
+                style="@style/RadiobtnTop"
+                android:text="篮球"/>
+            <RadioButton
+                android:id="@+id/rb_zixun_three"
+                android:layout_marginLeft="20dp"
+                android:textColor="@drawable/radiotab_text_selector"
+
+                style="@style/RadiobtnTop"
+                android:text="游泳"/>
+            <RadioButton
+                android:id="@+id/rb_zixun_four"
+                android:layout_marginLeft="20dp"
+                android:textColor="@drawable/radiotab_text_selector"
+
+                style="@style/RadiobtnTop"
+                android:text="健身"/>
+            <RadioButton
+                android:id="@+id/rb_zixun_five"
+                android:layout_marginLeft="20dp"
+                android:textColor="@drawable/radiotab_text_selector"
+
+                style="@style/RadiobtnTop"
+                android:text="跑步"/>
+            <RadioButton
+                android:id="@+id/rb_zixun_six"
+                android:layout_marginLeft="20dp"
+                android:textColor="@drawable/radiotab_text_selector"
+
+                style="@style/RadiobtnTop"
+                android:text="轮滑"/>
+            <RadioButton
+                android:id="@+id/rb_zixun_seven"
+                android:layout_marginLeft="20dp"
+                android:textColor="@drawable/radiotab_text_selector"
+
+                style="@style/RadiobtnTop"
+                android:text="乒乓球"/>
+
+
+        </RadioGroup>
+    </HorizontalScrollView>
+    <View
+        android:id="@+id/strut_new1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+
+        android:layout_marginTop="50dp"
+        />
+    <android.support.v4.view.ViewPager
+        android:layout_below="@id/strut_new1"
+        android:background="#fff"
+        android:id="@+id/vp_zixun"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+
+    </android.support.v4.view.ViewPager>
+</RelativeLayout>

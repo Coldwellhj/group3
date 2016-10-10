@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\gaobo\andriod workspace\Moving_kuangjia1\libs\pulltorefresh\assets"/><source path="D:\gaobo\andriod workspace\Moving_kuangjia1\libs\pulltorefresh\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\gaobo\andriod workspace\Moving_kuangjia1\libs\pulltorefresh\src\release\assets"/></dataSet></merger>
